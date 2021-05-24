@@ -1,6 +1,8 @@
 # Contacts Project
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+`Based on React, and application of React Router, this is an app to manage contacts of the users, it uses an API for communicating with the store and managing data accordingly.`
+
+This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).```
 
 Most of the commits in this repository correspond to videos in the program.
 
